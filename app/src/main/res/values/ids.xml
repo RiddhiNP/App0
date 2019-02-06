@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id" />
+    <item name="email" type="id" />
+    <item name="password" type="id" />
+    <item name="btn_register" type="id" />
+    <item name="tbn_register" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="login" type="id" />
+    <item name="register" type="id" />
+
+</resources>
